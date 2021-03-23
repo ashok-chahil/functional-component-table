@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.table-font{
+  font-size: 14px;
+}
+
+.MuiTableCell-root{
+  font-size: 14px;
+}
+.label{
+  display: flex;
+    margin-left: 14px;
+    color: #A2a2a2;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
