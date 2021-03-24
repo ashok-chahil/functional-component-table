@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/functional-component-table.git/static/css/main.15d57d89.chunk.css",
+    "main.js": "/functional-component-table.git/static/js/main.2bed5b20.chunk.js",
+    "main.js.map": "/functional-component-table.git/static/js/main.2bed5b20.chunk.js.map",
+    "runtime-main.js": "/functional-component-table.git/static/js/runtime-main.a4d34561.js",
+    "runtime-main.js.map": "/functional-component-table.git/static/js/runtime-main.a4d34561.js.map",
+    "static/js/2.f527c711.chunk.js": "/functional-component-table.git/static/js/2.f527c711.chunk.js",
+    "static/js/2.f527c711.chunk.js.map": "/functional-component-table.git/static/js/2.f527c711.chunk.js.map",
+    "index.html": "/functional-component-table.git/index.html",
+    "static/css/main.15d57d89.chunk.css.map": "/functional-component-table.git/static/css/main.15d57d89.chunk.css.map",
+    "static/js/2.f527c711.chunk.js.LICENSE.txt": "/functional-component-table.git/static/js/2.f527c711.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4d34561.js",
+    "static/js/2.f527c711.chunk.js",
+    "static/css/main.15d57d89.chunk.css",
+    "static/js/main.2bed5b20.chunk.js"
+  ]
+}
